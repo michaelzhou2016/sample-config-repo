@@ -1,0 +1,6 @@
+server:
+  port: 9013
+spring:
+  data:
+    mongodb:
+      uri: mongodb://app_bill_rw:9240^XB4r82q7d@192.168.60.166:27017,192.168.60.167:27017,192.168.60.168:27017/bill?replicaSet=rskkd
